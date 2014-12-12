@@ -1,6 +1,6 @@
 NLP---SICStus
 =============
-Natural Language Processing - Parsers
+Natural Language Processing - Parsers in SICStus Prolog
 - top-down parser with features and result tree
 - top-down parser without features, with result tree
 - bottom-up parser with features and result tree
